@@ -57009,7 +57009,7 @@ return new B.BC(s,r,C.r,!1,r,!0,C.oY,!1,r,0,r,q,C.a4,C.rZ,r,C.O,r)},
 $S:363}
 B.a3A.prototype={
 $2:function(a,b){var s=this.a.b,r=J.af(s)
-if(!J.d(J.ao(r.h(s,b),"name"),"sashankvisweshwaran.github.io"))return new T.lh(r.h(s,b),null)},
+if(!J.d(J.ao(r.h(s,b),"name"),"lightningbolt047.github.io"))return new T.lh(r.h(s,b),null)},
 $C:"$2",
 $R:2,
 $S:364}
@@ -57039,7 +57039,7 @@ p=K.kO(new P.b0(30,30))
 o=t.t
 return B.A1(m,H.c([new T.f1(new T.av(C.cb,T.bk(H.c([q,Z.hE(C.R,!1,new T.av(C.cb,T.bk(H.c([new T.av(C.pS,L.c0(C.xt,C.a_,m),m),new T.av(C.fs,L.bx("Download",m,m,m,m,m,m,m,A.aN(m,m,C.a_,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m),m,m,m),m)],o),C.n,C.iw,C.m),m),C.j,C.c7,0,2,!0,C.h,m,4,m,m,8,m,7,m,m,m,m,new B.a3p(n),C.a6,new X.cl(p,C.p),m,m,C.bB)],o),C.n,r,C.m),m),m),G.a9o(G.adM(new B.a3q(n),!0,!0,!0,Math.min(1,1)))],o))}}
 B.a3p.prototype={
-$0:function(){this.a.oY("https://sashankvisweshwaran.github.io/assets/assets/SashankVisweshwaran-CB.EN.U4CSE18354.pdf")},
+$0:function(){this.a.oY("https://lightningbolt047.github.io/assets/assets/SashankVisweshwaran-CB.EN.U4CSE18354.pdf")},
 $S:2}
 B.a3q.prototype={
 $2:function(a,b){return new V.lG(this.a.e,$.ar8[b],$.ar7[b],null)},
