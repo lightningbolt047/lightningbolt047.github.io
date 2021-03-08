@@ -61548,7 +61548,7 @@ $C:"$0",
 $R:0,
 $S:1}
 V.a6z.prototype={
-$1:function(a){var s=null,r=L.bK("Alert",s,s,s,s,s,s,s,s,s,s,s),q=L.bK("Built with Flutter 2.0!\nWeb is now stable",s,s,s,s,s,s,s,s,s,s,s)
+$1:function(a){var s=null,r=L.bK("Alert",s,s,s,s,s,s,s,s,s,s,s),q=L.bK("Built with Flutter!\nFlutter:2.0.1\nDart:2.12.0",s,s,s,s,s,s,s,s,s,s,s)
 return E.agQ(H.b([U.aju(L.bK("OK",s,s,s,s,s,s,s,s,s,s,s),new V.a6y(a))],t.t),new V.aq(8,8,8,8),q,new V.aq(16,16,16,16),r)},
 $S:127}
 V.a6y.prototype={
