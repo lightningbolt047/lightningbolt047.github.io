@@ -62998,7 +62998,7 @@ p=K.fQ(new P.aY(30,30))
 o=t.t
 return B.Dd(m,H.b([new T.fx(new T.aH(C.bw,T.bD(H.b([q,Z.jv(C.P,!1,new T.aH(C.bw,T.bD(H.b([new T.aH(C.iR,L.cj(C.pz,C.a3,m),m),new T.aH(C.ch,L.bE("Download",m,m,m,m,m,m,m,A.aP(m,m,C.a3,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m),m,m,m),m)],o),C.p,C.d3,C.m),m),C.j,C.br,0,2,!0,C.h,m,4,m,m,8,m,7,m,m,m,m,new B.a9D(n),C.a6,new X.cE(p,C.q),m,m,C.b9)],o),C.p,r,C.m),m),m),G.agJ(G.am9(new B.a9E(n),!0,!0,!0,Math.min(2,2)))],o))}}
 B.a9D.prototype={
-$0:function(){this.a.qu("https://lightningbolt047.github.io/assets/assets/SashankVisweshwaran-CB.EN.U4CSE18354.pdf")},
+$0:function(){this.a.qu("https://lightningbolt047.github.io/assets/assets/SashankVisweshwaran-Resume.pdf")},
 $S:2}
 B.a9E.prototype={
 $2:function(a,b){return new V.mM(this.a.e,$.aCl[b],$.aCk[b],null)},
