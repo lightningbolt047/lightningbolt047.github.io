@@ -64010,25 +64010,30 @@ p=T.bN(k,k,b)
 h=j.e
 o=L.ck(C.Bl,C.h,h||d<600?35:60)
 e=T.bE(H.b([e,r,q,p,T.cn(H.b([o,L.bH("HTML",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,h?8:15,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)],s),C.o,C.ae,C.n)
-r=T.bN(k,i*0.08,k)
-q=T.bE(H.b([T.cn(H.b([L.ck(C.BF,C.h,60),L.bH("NodeJS",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n),T.bN(k,k,b),T.cn(H.b([L.ck(C.BC,C.h,60),L.bH("PHP",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)],s),C.o,C.ae,C.n)
-p=T.bN(k,d*0.08,k)
 h=j.e
-o=L.ck(C.BD,C.h,h||d<600?35:60)
-o=T.cn(H.b([o,L.bH("Firebase",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,h?8:15,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)
-h=j.e
-n=T.bN(k,k,h?i*0.01:b)
-m=U.p6("assets/mongodb_icon.png",C.h,C.cS,h||d<600?4:2.2)
-m=T.cn(H.b([m,L.bH("MongoDB",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,h?8:15,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)
-h=j.e
-b=T.bN(k,k,h?i*0.01:b)
-l=U.p6("assets/sql_icon.png",C.h,C.cS,h||d<600?4:2.2)
-g=T.i1(T.bE(H.b([g,f,K.hq(M.aP(k,T.cn(H.b([e,r,q,p,T.bE(H.b([o,n,m,b,T.cn(H.b([l,L.bH("SQL",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,h?8:15,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)],s),C.o,C.ae,C.n)],s),C.o,C.ae,C.n),C.j,k,k,k,k,k,k,C.bB,k,k,i*0.45),c,k,!0)],s),C.o,C.A,C.n),1)
-f=j.x
-f=K.hq(L.bH("Other Skills",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,25,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),f,k,!0)
+r=T.bN(k,h?i*0.08:i*0.04,k)
+q=L.ck(C.BF,C.h,60)
+q=T.cn(H.b([q,L.bH("NodeJS",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,h?8:15,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)
+p=T.bN(k,k,b)
+o=L.ck(C.BC,C.h,60)
+h=T.bE(H.b([q,p,T.cn(H.b([o,L.bH("PHP",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,j.e?8:15,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)],s),C.o,C.ae,C.n)
+q=T.bN(k,d*0.08,k)
+p=j.e
+o=L.ck(C.BD,C.h,p||d<600?35:60)
+o=T.cn(H.b([o,L.bH("Firebase",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,p?8:15,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)
+p=j.e
+n=T.bN(k,k,p?i*0.01:b)
+m=U.p6("assets/mongodb_icon.png",C.h,C.cS,p||d<600?4:2.2)
+m=T.cn(H.b([m,L.bH("MongoDB",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,p?8:15,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)
+p=j.e
+b=T.bN(k,k,p?i*0.01:b)
+l=U.p6("assets/sql_icon.png",C.h,C.cS,p||d<600?4:2.2)
+h=T.i1(T.bE(H.b([g,f,K.hq(M.aP(k,T.cn(H.b([e,r,h,q,T.bE(H.b([o,n,m,b,T.cn(H.b([l,L.bH("SQL",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,p?8:15,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],s),C.o,C.A,C.n)],s),C.o,C.ae,C.n)],s),C.o,C.ae,C.n),C.j,k,k,k,k,k,k,C.bB,k,k,i*0.45),c,k,!0)],s),C.o,C.A,C.n),1)
+g=j.x
+g=K.hq(L.bH("Other Skills",k,k,k,k,k,k,k,A.aX(k,k,C.h,k,k,k,k,k,k,k,k,25,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),g,k,!0)
 j=j.x
 i*=0.05
-return B.DN(k,k,H.b([A.ahm(T.eO(T.cn(H.b([g,f,K.hq(new T.aK(C.aa,T.bE(H.b([L.ck(C.Bq,C.h,60),T.bN(k,k,i),L.ck(C.Bn,C.h,60),T.bN(k,k,i),L.ck(C.BE,C.h,60)],s),C.o,C.ae,C.n),k),j,k,!0)],s),C.o,C.A,C.n),k,k),!0)],s))},
+return B.DN(k,k,H.b([A.ahm(T.eO(T.cn(H.b([h,g,K.hq(new T.aK(C.aa,T.bE(H.b([L.ck(C.Bq,C.h,60),T.bN(k,k,i),L.ck(C.Bn,C.h,60),T.bN(k,k,i),L.ck(C.BE,C.h,60)],s),C.o,C.ae,C.n),k),j,k,!0)],s),C.o,C.A,C.n),k,k),!0)],s))},
 $S:384}
 B.w3.prototype={
 a8(){return new B.N7(new Z.WZ(),C.l)}}
